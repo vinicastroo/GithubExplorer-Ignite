@@ -1,4 +1,6 @@
-# GitHub Explorer
+# [estudos] GitHub Explorer
+
+> This project used to live together with several other study projects in a single monorepo. It has since been split out into its own dedicated repository. See the original [estudos-ignite](https://github.com/vinicastroo/estudos-ignite) repo for more context.
 
 Study challenge/exercise from the React.js module of Ignite (Rocketseat), 2021 class. It allows you to search GitHub repositories by name (user/repository), add them to a list and navigate to each repository's details.
 
