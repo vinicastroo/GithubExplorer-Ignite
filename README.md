@@ -1,15 +1,15 @@
 # GitHub Explorer
 
-Desafio/exercício de estudo do módulo de React.js do Ignite (Rocketseat), turma 2021. Permite buscar repositórios do GitHub pelo nome (usuário/repositório), adicioná-los a uma lista e navegar até os detalhes de cada repositório.
+Study challenge/exercise from the React.js module of Ignite (Rocketseat), 2021 class. It allows you to search GitHub repositories by name (user/repository), add them to a list and navigate to each repository's details.
 
-## Tecnologias
+## Technologies
 
 - React
 - TypeScript
 - webpack
 - react-icons
 
-## Como rodar
+## How to run
 
 ```bash
 yarn install
